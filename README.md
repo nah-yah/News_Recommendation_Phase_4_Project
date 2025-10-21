@@ -50,7 +50,7 @@ The success of the project measure by the system ability to recommend articles t
 ### 2.7 Business value
 Implementation of a credibility-aware recommendation system provide multiple benefits for both users and platforms. For news platforms, it strengthen trust, improve user retention, and reduce the risk of promote misinformation. For readers, it ensure access to relevant and reliable content, support informed decision-making. Additionally, through responsible AI practices demonstration, platforms align with regulatory expectations and ethical standards, enhance their reputation. Overall, the system add measurable value through user engagement and content integrity combination, create a safer and more trustworthy online news ecosystem. The business value extend beyond immediate metrics to include long-term brand protection and contribution to healthier public discourse.
 
-## 3. Data Understanding
+## 3. Data understanding
 ### 3.1 Data source
 The system utilizes the WELFake dataset, a comprehensive collection of 72,134 news articles specifically curated for fake news detection research. This dataset combines four popular news sources: Kaggle, McIntire, Reuters, and BuzzFeed Political, creating a diverse and representative sample of news content. The dataset includes verified labels (0 = real news, 1 = fake news) for each article, enabling reliable credibility assessment. The inclusion of multiple sources ensures the system can identify credibility patterns across different publication styles and subject areas, providing a robust foundation for developing a generalizable credibility scoring mechanism.
 
